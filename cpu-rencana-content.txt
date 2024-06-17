@@ -6,9 +6,11 @@ RENCANA KONTEN WPU
   * ES7
   * Vue
   * react
+  * Angular 
 - Stuktur Data Dasar
 - PHP Framework
   ^ laravel
+  ^ Code Igniter
 - Interview
 - Vlogs
 -Pyton
